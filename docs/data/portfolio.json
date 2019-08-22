@@ -1,0 +1,10 @@
+{
+    "MySite": {
+        "id": "1",
+        "workname": "ポートフォリオサイト",
+        "thumbnail": "mofumir.png",
+        "used-asset": "vue",
+        "githublink": "https://github.com/mofumir/mofumir-vue",
+        "projectlink": "https://mofumir.github.io/"
+    }
+}

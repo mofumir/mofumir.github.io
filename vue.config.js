@@ -6,5 +6,5 @@ module.exports = {
       }
     }
   },
-  outputDir: 'dist',
+  outputDir: 'docs',
 }
