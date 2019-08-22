@@ -6,5 +6,5 @@ module.exports = {
       }
     }
   },
-  outputDir: '../mofumir-ghpage',
+  outputDir: 'dist',
 }
