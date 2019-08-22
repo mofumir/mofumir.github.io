@@ -46,7 +46,7 @@ export default {
     color: #fff
     overflow: hidden
     @include mq($from:sm, $until:md)
-        height: 40vh
+        height: 350px
         text-align: center
         margin: auto
     @include mq($from:md, $until:lg)

@@ -30,12 +30,12 @@ export default {
 @mixin button($catcolor)
     $bgcolor: #ddd
     cursor: pointer
-    @include mq($until: lg)
+    @include mq($until: md)
         background-color: $catcolor
         color: $bgcolor
         &:active
             background-color: $bgcolor
-    @include mq($from: lg)
+    @include mq($from: md)
         background-color: $bgcolor
         border-color: $catcolor
         transition: 0.5s
