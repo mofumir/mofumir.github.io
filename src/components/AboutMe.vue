@@ -86,7 +86,7 @@ export default {
         p
             @include mq($until:md)
                 font-size: 0.85em
-            @include mq($from:lg)    
+            @include mq($from:lg)
                 font-size: 1rem
             white-space: pre-line
 
