@@ -14,7 +14,7 @@
     "core-js": "^2.6.5",
     "growl": "^1.1.0",
     "http-proxy-agent": "^2.1.0",
-    "https-proxy-agent": "^2.1.0",
+    "https-proxy-agent": "^2.2.3",
     "particles.js": "^2.0.0",
     "sanitize-html": "^1.20.1",
     "sanitize.css": "^11.0.0",
